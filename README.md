@@ -1,5 +1,5 @@
 # CodeAlpha_Machine_Learning
-# Handwritten cahracter recognition
+# Handwritten character recognition
 This is just the initial basic project built using the mnist dataset which is capable of reconizing various handwritten digits(0-9) and can be extended to reconize alphabets or even words.
 > MNIST dataset  contains 70,000 grayscale images of handwritten digits.
 > loaded using fetch_openml('mnist_784',version=1)
